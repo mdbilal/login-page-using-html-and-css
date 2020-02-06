@@ -9,7 +9,7 @@ body{
 
 .loginbox{
   width: 420px;
-  height: 480px;
+  height: 500px;
   background: rgba(0, 0 , 0, 0.56);
   color: #fff;
   top: 50%;
@@ -64,6 +64,17 @@ h1{
   outline: none;
   height: 40px;
   background: #fb2525;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+}
+
+.loginbox input[value="Signup"]
+{
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #5050cc;
   color: #fff;
   font-size: 18px;
   border-radius: 20px;
